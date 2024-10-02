@@ -1,4 +1,4 @@
-PROJETO - GERENCIAMENTO DE MUSEU MULTITEMÁTICO 🎟️
+##PROJETO - GERENCIAMENTO DE MUSEU MULTITEMÁTICO 🎟️
 Resumo do Projeto
 Este projeto foi desenvolvido pela equipe para criar um sistema de compra de ingressos, destacando a vida e carreira do icônico jogador Rei Pelé. O sistema foi implementado em C utilizando o Dev C++, e inclui diversas funcionalidades essenciais para a gestão de museus.
 
