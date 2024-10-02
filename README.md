@@ -35,9 +35,3 @@ Gestão de Banco de Dados
 Análise Matemática
 Resolução de Problemas
 Comunicação e Colaboração
-Linguagens e Ferramentas Utilizadas
-<div> ![](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Dev_C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Scrum-%2300CFFF.svg?style=for-the-badge&logo=scrum&logoColor=white) ![](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) </div>
-Contato 📫
-Sinta-se à vontade para me contatar via LinkedIn
-
-<p align="center"> <img src="https://github.com/luis0777/luis0777/blob/output/github-contribution-grid-snake.gif" alt="snake gif"> </p>
